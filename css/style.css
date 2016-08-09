@@ -11,8 +11,8 @@ p font-family helvetica {
   font-size: 24px;
 }
 
-/*
 .fs-video {
+/*
     position: fixed;
     top: 50%;
     left: 50%;
@@ -27,5 +27,5 @@ p font-family helvetica {
     transform: translateX(-50%) translateY(-50%);
     background: url(polina.jpg) no-repeat;
     background-size: cover;
-}
 */
+}
