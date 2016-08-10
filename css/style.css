@@ -29,3 +29,15 @@ p font-family helvetica {
     background-size: cover;
 */
 }
+
+.popup1 {
+    background-color: aliceblue;
+    height: 25600px;
+    width: 256px;
+    opacity: 0;
+}
+
+.popupvis {
+
+opacity: 1;
+}
